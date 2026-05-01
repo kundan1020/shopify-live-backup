@@ -108,10 +108,21 @@
         "padding-block-start": 0,
         "padding-block-end": 0
       }
+    },
+    "main-blog_1": {
+      "type": "main-blog",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      },
+      "blocks": {},
+      "block_order": []
     }
   },
   "order": [
     "hero_1",
-    "product-list_1"
+    "product-list_1",
+    "main-blog_1"
   ]
 }
